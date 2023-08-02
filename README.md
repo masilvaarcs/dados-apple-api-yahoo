@@ -1,6 +1,6 @@
 # Busca de Dados de Ações da Apple
 
-![Licença](https://img.shields.io/github/license/masilvaarcs/dados-apple-api-yahoo)
+![Licença](https://img.shields.io/github/license/masilvaarcs/dados_apple_api_yahoo)
 
 ## Descrição
 
@@ -26,13 +26,13 @@ pip install yfinance
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/masilvaarcs/dados-apple-api-yahoo.git
+git clone https://github.com/masilvaarcs/dados_apple_api_yahoo.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd dados-apple-api-yahoo
+cd dados_apple_api_yahoo
 ```
 
 3. Execute o script Python para buscar os dados das ações da Apple:
